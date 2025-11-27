@@ -1,7 +1,7 @@
 > [!NOTE]
 > The SEPIA Driving dataset will be released in January 2026. Below you'll find some information and the highlights of what is to come.
 
-!(/assets/hero_image.jpg)
+![Top Banner](/assets/hero_image.jpg)
 
 # SEPIA Driving
 
@@ -9,7 +9,8 @@ The Static Environment Perception for Infrastructure-Aware (Automated) Driving (
 
 Watch the trailer now:
 
-[![Trailer](https://img.youtube.com/vi/ThkwTLyey9k/maxresdefault.jpg)](https://youtu.be/ThkwTLyey9k)
+<iframe width="640" height="360" src="https://www.youtube.com/embed/ThkwTLyey9k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Data Recording & Geography
 
