@@ -9,7 +9,7 @@ The Static Environment Perception for Infrastructure-Aware (Automated) Driving (
 
 Watch the trailer now:
 
-[![Click here to watch the trailer](/assets/video_first_frame.jpg)](https://youtu.be/ThkwTLyey9k)
+[![Click here to watch the trailer](/assets/video_first_frame.jpg)](https://www.youtube.com/watch?v=ThkwTLyey9k?autoplay=1)
 
 ## Data Recording & Geography
 
