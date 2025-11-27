@@ -1,16 +1,15 @@
 > [!NOTE]
 > The SEPIA Driving dataset will be released in January 2026. Below you'll find some information and the highlights of what is to come.
 
-![Top Banner](/assets/hero_image.jpg)
-
 # SEPIA Driving
+
+![Top Banner](/assets/hero_image.jpg)
 
 The Static Environment Perception for Infrastructure-Aware (Automated) Driving (SEPIA Driving) dataset is a large-scale, multi-modal dataset for lane detection and road-surface comprehension. It provides a wealth of semantic information from the vehicle’s environment to enable an understanding of the road infrastructure and allowed driving behaviors. Each camera image and corresponding LiDAR scan are annotated with pixel-precise labels for road-surface categories, lane instances, driving directions, lane-boundary locations, lane-boundary types, drivable area, distance to the road surface, as well as occlusion and visibility. Annotations are based on a high-precision 3D world model, ensuring accurate annotations with unlimited viewing distance even behind dynamic objects and in challenging light conditions.
 
 Watch the trailer now:
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/ThkwTLyey9k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+[![Click here to watch the trailer](https://img.youtube.com/vi/ThkwTLyey9k/maxresdefault.jpg)](https://youtu.be/ThkwTLyey9k)
 
 ## Data Recording & Geography
 
