@@ -5,7 +5,7 @@
 
 ![Top Banner](/assets/hero_image.jpg)
 
-The *Static Environment Perception for Infrastructure-Aware (Automated) Driving* (**SEPIA**Driving) dataset is a large-scale, multi-modal dataset for lane detection and road-surface comprehension. It provides a wealth of semantic information from the vehicle’s environment to enable an understanding of the road infrastructure and allowed driving behaviors. Each camera image and corresponding LiDAR scan are annotated with pixel-precise labels for road-surface categories, lane instances, driving directions, lane-boundary locations, lane-boundary types, drivable area, distance to the road surface, as well as occlusion and visibility. Annotations are based on a high-precision 3D world model, ensuring accurate annotations with unlimited viewing distance even behind dynamic objects and in challenging light conditions.
+The *Static Environment Perception for Infrastructure-Aware (Automated) Driving* (**SEPIA** Driving) dataset is a large-scale, multi-modal dataset for lane detection and road-surface comprehension. It provides a wealth of semantic information from the vehicle’s environment to enable an understanding of the road infrastructure and allowed driving behaviors. Each camera image and corresponding LiDAR scan are annotated with pixel-precise labels for road-surface categories, lane instances, driving directions, lane-boundary locations, lane-boundary types, drivable area, distance to the road surface, as well as occlusion and visibility. Annotations are based on a high-precision 3D world model, ensuring accurate annotations with unlimited viewing distance even behind dynamic objects and in challenging light conditions.
 
 Watch the trailer now:
 
