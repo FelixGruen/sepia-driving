@@ -1,5 +1,5 @@
 > [!NOTE]
-> The SEPIA Driving dataset will be released in January 2026. Below you'll find some information and the highlights of what is to come.
+> The SEPIA Driving dataset will be released in May 2026. Below you'll find some information and the highlights of what is to come.
 
 # SEPIA Driving
 
